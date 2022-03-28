@@ -1,0 +1,11 @@
+.box-container {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+}
+
+.bizar {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+}

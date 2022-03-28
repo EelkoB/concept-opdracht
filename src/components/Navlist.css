@@ -1,0 +1,7 @@
+.navigation-container {
+    display: flex;
+    font-family: "Roboto Light", sans-serif;
+    list-style-type: none;
+    align-items: flex-end;
+    justify-content: space-between;
+}
